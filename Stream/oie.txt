@@ -1,0 +1,3 @@
+Maria,maria@gmail.com,4000.00
+Wesley,wesleysv11@gmail.com,3000.00
+Michael, michel.e@gmail.com, 10000.00
